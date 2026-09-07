@@ -1,0 +1,97 @@
+Date,State,Confirmed,Deceased,Recovered,State_Name
+2020-04-01,AN,0,0,0,Andaman and Nicobar Islands
+2020-04-01,AP,67,0,1,Andhra Pradesh
+2020-04-01,AS,15,0,0,Assam
+2020-04-01,BR,3,0,0,Bihar
+2020-04-01,DL,32,0,0,Delhi
+2020-04-01,GJ,13,0,0,Gujarat
+2020-04-01,HR,0,0,10,Haryana
+2020-04-01,JK,7,0,1,Jammu and Kashmir
+2020-04-01,KA,9,0,1,Karnataka
+2020-04-01,KL,24,0,2,Kerala
+2020-04-01,MH,33,3,0,Maharashtra
+2020-04-01,MP,32,1,0,Madhya Pradesh
+2020-04-01,OR,1,0,1,Odisha
+2020-04-01,PB,4,0,0,Punjab
+2020-04-01,RJ,27,0,0,Rajasthan
+2020-04-01,TG,30,3,0,Telangana
+2020-04-01,TN,110,0,0,Tamil Nadu
+2020-04-01,UP,13,2,0,Uttar Pradesh
+2020-04-01,WB,0,0,0,West Bengal
+2020-05-01,AN,0,0,0,Andaman and Nicobar Islands
+2020-05-01,AP,60,2,82,Andhra Pradesh
+2020-05-01,AS,0,0,4,Assam
+2020-05-01,BR,41,1,14,Bihar
+2020-05-01,CH,14,0,0,Chandigarh
+2020-05-01,DL,223,2,73,Delhi
+2020-05-01,GJ,326,22,123,Gujarat
+2020-05-01,HR,18,0,6,Haryana
+2020-05-01,JK,25,0,31,Jammu and Kashmir
+2020-05-01,KA,24,0,22,Karnataka
+2020-05-01,KL,0,0,9,Kerala
+2020-05-01,MH,1008,26,106,Maharashtra
+2020-05-01,MP,90,8,42,Madhya Pradesh
+2020-05-01,OR,11,0,14,Odisha
+2020-05-01,PB,105,0,4,Punjab
+2020-05-01,RJ,82,4,223,Rajasthan
+2020-05-01,TG,6,0,22,Telangana
+2020-05-01,TN,203,1,54,Tamil Nadu
+2020-05-01,UP,117,2,103,Uttar Pradesh
+2020-05-01,WB,37,8,15,West Bengal
+2020-06-01,AN,0,0,0,Andaman and Nicobar Islands
+2020-06-01,AP,105,2,34,Andhra Pradesh
+2020-06-01,AS,146,0,99,Assam
+2020-06-01,BR,138,0,221,Bihar
+2020-06-01,DL,990,50,268,Delhi
+2020-06-01,GJ,423,25,861,Gujarat
+2020-06-01,HR,265,1,7,Haryana
+2020-06-01,JK,155,3,19,Jammu and Kashmir
+2020-06-01,KA,187,1,100,Karnataka
+2020-06-01,KL,57,1,18,Kerala
+2020-06-01,MH,2358,76,779,Maharashtra
+2020-06-01,MP,194,8,161,Madhya Pradesh
+2020-06-01,OR,156,0,119,Odisha
+2020-06-01,PB,38,-1,13,Punjab
+2020-06-01,RJ,269,5,181,Rajasthan
+2020-06-01,TG,94,6,63,Telangana
+2020-06-01,TN,1162,11,413,Tamil Nadu
+2020-06-01,UP,286,5,187,Uttar Pradesh
+2020-06-01,WB,271,8,149,West Bengal
+2020-07-01,AN,3,0,5,Andaman and Nicobar Islands
+2020-07-01,AP,657,6,477,Andhra Pradesh
+2020-07-01,AS,548,0,184,Assam
+2020-07-01,BR,216,5,267,Bihar
+2020-07-01,DL,2442,61,1644,Delhi
+2020-07-01,GJ,675,21,368,Gujarat
+2020-07-01,HR,393,4,527,Haryana
+2020-07-01,JK,198,4,134,Jammu and Kashmir
+2020-07-01,KA,1272,7,145,Karnataka
+2020-07-01,KL,151,1,132,Kerala
+2020-07-01,MH,5537,198,2243,Maharashtra
+2020-07-01,MP,268,9,260,Madhya Pradesh
+2020-07-01,OR,251,1,164,Odisha
+2020-07-01,PB,100,5,122,Punjab
+2020-07-01,RJ,304,8,354,Rajasthan
+2020-07-01,TG,1018,7,788,Telangana
+2020-07-01,TN,3882,63,2852,Tamil Nadu
+2020-07-01,UP,564,21,545,Uttar Pradesh
+2020-07-01,WB,611,15,398,West Bengal
+2020-08-01,AN,88,2,12,Andaman and Nicobar Islands
+2020-08-01,AP,9276,58,12750,Andhra Pradesh
+2020-08-01,AS,1457,3,1085,Assam
+2020-08-01,BR,3521,14,1823,Bihar
+2020-08-01,DL,1118,26,1201,Delhi
+2020-08-01,GJ,1136,24,875,Gujarat
+2020-08-01,HR,793,7,853,Haryana
+2020-08-01,JK,613,11,654,Jammu and Kashmir
+2020-08-01,KA,5172,98,3860,Karnataka
+2020-08-01,KL,1129,8,752,Kerala
+2020-08-01,MH,9601,322,10725,Maharashtra
+2020-08-01,MP,808,9,698,Madhya Pradesh
+2020-08-01,OR,1602,11,756,Odisha
+2020-08-01,PB,944,19,341,Punjab
+2020-08-01,RJ,1160,14,823,Rajasthan
+2020-08-01,TG,2083,11,1114,Telangana
+2020-08-01,TN,5879,99,7010,Tamil Nadu
+2020-08-01,UP,3587,47,2471,Uttar Pradesh
+2020-08-01,WB,2589,48,2143,West Bengal

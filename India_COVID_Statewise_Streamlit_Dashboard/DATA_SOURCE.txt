@@ -1,0 +1,8 @@
+DATA SOURCE
+Primary:
+https://github.com/imdevskp/covid-19-india-data
+Raw CSV:
+https://raw.githubusercontent.com/imdevskp/covid-19-india-data/refs/heads/master/state_level_daily.csv
+
+Alternative COVID19India archive:
+https://data.covid19india.org/
